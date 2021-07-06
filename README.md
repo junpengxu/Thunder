@@ -1,2 +1,3 @@
-# thunder
+# Thunder
 基于epoll模式的聊天服务器
+最近在研究socket如何实现服务之间通讯，在学些的过程中尝试使用socket+epoll实现一个聊天服务器
